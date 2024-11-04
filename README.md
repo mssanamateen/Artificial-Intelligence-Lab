@@ -44,10 +44,10 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ## Authors
 - [@Sana Mateen](https://github.com/mssanamateen)
 
-##Special Contribution by Students
+## Special Contribution by Students
 -[@Robin Thomas Antony][https://github.com/Rt1818]
 
-##Student Contributions
+## Student Contributions
 -[@Anushka088](https://github.com/Anushka088)
 -[@AshwinDivakaruni](https://github.com/Mekuchi-Hidaka)
 -[@Sainath Ch](https://github.com/sainathch45)
