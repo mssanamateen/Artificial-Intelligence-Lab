@@ -49,6 +49,6 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 
 ## Student Contributions
 -[@Anushka088](https://github.com/Anushka088)
--[@AshwinDivakaruni](https://github.com/Mekuchi-Hidaka)
+-[@AshwinDivakaruni](https://github.com/Divk-Ashwin)
 -[@Sainath Ch](https://github.com/sainathch45)
 
