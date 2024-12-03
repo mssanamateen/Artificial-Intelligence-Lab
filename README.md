@@ -46,6 +46,7 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 
 ## Special Contribution by Students
 - [@Robin Thomas Antony](https://github.com/Rt1818)
+-[@Motassim Khan](https://github.com/motassimkhan)
 
 ## Student Contributions
 -[@Anushka088](https://github.com/Anushka088)
