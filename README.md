@@ -19,6 +19,29 @@ Contributions are always welcome!
  ```
  git clone "url u just copied"
  ```
+- Create a virtual Environment (optional)
+    Run the following in your terminal
+    Windows:
+    ```
+    python -m venv venv
+    ```
+    Activate the Virtual Environment
+    ```
+    venv\Scripts\activate
+    ```
+
+    macOS/Linux:
+    ```
+    python3 -m venv venv
+    ```
+    Activate the Virtual Environment
+    ```
+    source venv/bin/activate
+    ```
+    Download required packages from requirements.txt
+    ```
+    pip install -r requirements.txt
+    ```
 
 - Make necessary changes and commit using
 ``` 
